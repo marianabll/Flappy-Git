@@ -18,6 +18,7 @@ function preload() {
   predio3 = loadImage("assets/obsBottom3.png");
   balao = loadImage("assets/obsTop1.png")
   nuvem = loadImage("assets/nuvem.png");
+  carro = loadImage("assets/carro1.png");
 }
 
 
